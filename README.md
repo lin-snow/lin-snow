@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @lin-snow
-- 👀 I’m interested in Front-end
-- 🌱 I’m currently learning Front-end
+- 👋 Hi, I’m 林奕宏，also called linyihong.I am studying in GDUT now as a freshman.
+- 👀 I’m interested in Front-end,CS
+- 🌱 I’m currently learning C ,
 - 📫reach me by email
 
 <!---
