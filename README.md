@@ -1,9 +1,2 @@
-- 👋 Hi, I’m 林奕宏.I am studying in GDUT now as a freshman.
-- 👀 I’m interested in Front-end,CS
-- 🌱 I’m currently learning C ,
-- 📫reach me by email
-
-<!---
-lin-snow/lin-snow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+你好呀。我是林奕宏，来自中国，常以L1nSn0w活跃于互联网，目前就读于广东工业大学。
+喜欢coding和打游戏.
