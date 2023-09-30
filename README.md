@@ -1,4 +1,4 @@
-- 👋 Hi, I’m 林奕宏，also called linyihong.I am studying in GDUT now as a freshman.
+- 👋 Hi, I’m 林奕宏.I am studying in GDUT now as a freshman.
 - 👀 I’m interested in Front-end,CS
 - 🌱 I’m currently learning C ,
 - 📫reach me by email
