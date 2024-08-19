@@ -48,6 +48,21 @@
 
 <img src="./icons/github-mark.svg" width="50"  alt="Github"> <img src="./icons/vscode.svg" width="50" alt="VScode"> <img src="./icons/obsidian-logo-gradient.svg" width="50" alt="Obsidian"> <img src="./icons/Windows_logo_-_2021.svg.png" width="50" alt="Windows 11"> <img src="./icons/postman-icon.png" width="50" alt="POSTMAN"> <img src="./icons/Git-Icon-1788C.png" width="50" alt="Git"> ...
 
+# 🍟 Stats
+
+<div style="text-align: center;">
+    <a href="https://github.com/lin-snow">
+        <img align="center" src="https://githubstat.linsnow.cn/api/top-langs/?username=lin-snow&layout=compact" />
+    </a>
+    <a href="https://github.com/lin-snow">
+        <img align="center" src="https://githubstat.linsnow.cn/api?username=lin-snow&count_private=true&show_icons=true&theme=ambient_gradient" />
+    </a>
+</div>
+
+
+
+
+
 ---
 ##
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
