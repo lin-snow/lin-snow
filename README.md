@@ -46,7 +46,7 @@
 
 # 🔮 Tools
 
-<img src="./icons/github-mark.svg" width="50"  alt="Github"> <img src="./icons/vscode.svg" width="50" alt="VScode"> <img src="./icons/obsidian-logo-gradient.svg" width="50" alt="Obsidian"> <img src="./icons/Windows_logo_-_2021.svg.png" width="50" alt="Windows 11"> <img src="./icons/postman-icon.png" width="50" alt="POSTMAN"> <img src="./icons/postman-icon.png" width="50" alt="POSTMAN">
+<img src="./icons/github-mark.svg" width="50"  alt="Github"> <img src="./icons/vscode.svg" width="50" alt="VScode"> <img src="./icons/obsidian-logo-gradient.svg" width="50" alt="Obsidian"> <img src="./icons/Windows_logo_-_2021.svg.png" width="50" alt="Windows 11"> <img src="./icons/postman-icon.png" width="50" alt="POSTMAN"> <img src="./icons/Git-Icon-1788C.png" width="50" alt="Git"> ...
 
 ---
 ##
