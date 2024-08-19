@@ -30,6 +30,8 @@
 
 🗣️ Enjoys discussing `interests` and `tech` with others
 
+👾 Love Products and Design From `Apple. Inc` && `Google. Inc`  
+
 🤪 ...
 
 # 📫 Contact With Me:
