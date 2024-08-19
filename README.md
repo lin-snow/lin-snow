@@ -9,9 +9,27 @@
                                           
 
 ```
+---
+# 👋 Hi! I'm L1nSn0w.
+---
+# 👨‍💻 More About Me
 
-<html>
-  <body>
-    <h1> 👋Hi! I'm L1nSn0w. </h1>
-  </body>
-</html>
+🤠 He / Him . 21-year-old.
+
+🌏 Marjor in `Software Engineer` at the `GDUT`(Guangdong University of Technology)
+
+🛟 Enjoys surfing the `web` and discovering interesting and innovative software.
+
+💻 `Full-stack` development enthusiast
+
+🎮 Enjoys playing `The Finals`
+
+🗣️ Enjoys discussing `interests` and `tech` with others
+
+🤪 ...
+
+# 🔮 Tools
+
+---
+##
+![](./profile-3d-contrib/profile-night-rainbow.svg)
