@@ -36,7 +36,7 @@
 
 # 📫 Contact With Me:
 
-✉️ Email: [Personal Email](mailto:hi@linsnow.cn)
+✉️ Email: aGlAbGluc25vdy5jbg==
 
 🙃 Homepage: [HomePage](https://linsnow.cn)
 
