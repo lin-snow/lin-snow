@@ -9,6 +9,8 @@
                                           
 
 ```
+##
+![](https://raw.githubusercontent.com/lin-snow/lin-snow/output/github-contribution-grid-snake-dark.svg)
 
 # 👋 Hi! I'm L1nSn0w.
 
@@ -143,7 +145,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 ---
-##
-![](https://raw.githubusercontent.com/lin-snow/lin-snow/output/github-contribution-grid-snake-dark.svg)
 ##
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
