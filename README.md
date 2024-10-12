@@ -64,15 +64,13 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 310.3 kB Used in GitHub's Storage 
- > 
-> 🏆 207 Contributions in the Year 2024
+> 📦 310.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -142,7 +140,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lin-snow/lin-snow/main/assets/bar_graph.png)
 
 
- Last Updated on 12/10/2024 14:17:06 UTC
+ Last Updated on 12/10/2024 18:40:40 UTC
 <!--END_SECTION:waka-->
 
 
