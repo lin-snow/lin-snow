@@ -40,9 +40,7 @@
 
 ✉️ Email: aGlAbGluc25vdy5jbg==
 
-🙃 Homepage: [HomePage](https://linsnow.cn)
-
-📝 Blog: [Blog](https://blog.linsnow.cn)
+🙃 Site: [Site](https://linsnow.cn)
 
 🌀 ...
 
