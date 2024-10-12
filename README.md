@@ -47,8 +47,12 @@
 🌀 ...
 
 # 🔮 Tools
+![My Tools](./icons/tools.svg)
 
-<img src="./icons/github-mark.svg" width="50"  alt="Github"> <img src="./icons/vscode.svg" width="50" alt="VScode"> <img src="./icons/obsidian-logo-gradient.svg" width="50" alt="Obsidian"> <img src="./icons/Windows_logo_-_2021.svg.png" width="50" alt="Windows 11"> <img src="./icons/postman-icon.png" width="50" alt="POSTMAN"> <img src="./icons/Git-Icon-1788C.png" width="50" alt="Git"> ...
+<!-- ![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,go,py,vue,vite,pinia,ts,tailwind,mysql,docker,git,github,md,postman,pytorch,vscode,sass,vim,cloudflare,linux,debian,ubuntu,discord,gmail,githubactions,npm,obsidian,powershell,windows,yarn,apple,bash) -->
+
+<!-- 
+<img src="./icons/github-mark.svg" width="50"  alt="Github"> <img src="./icons/vscode.svg" width="50" alt="VScode"> <img src="./icons/obsidian-logo-gradient.svg" width="50" alt="Obsidian"> <img src="./icons/Windows_logo_-_2021.svg.png" width="50" alt="Windows 11"> <img src="./icons/postman-icon.png" width="50" alt="POSTMAN"> <img src="./icons/Git-Icon-1788C.png" width="50" alt="Git"> ... -->
 
 # 🍟 Stats
 
