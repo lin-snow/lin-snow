@@ -48,7 +48,7 @@
 
 # 🔮 Skills & Tools
 
-![My Skills](skillicons.svg)
+![My Skills](/assets/skillicons.svg)
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,golang,java,html,css,javascript,typescript,markdown,sass,tailwindcss,vuejs,vite,nuxtjs,pinia,nodejs,spring,maven,git,github,docker,nginx,postman,cloudflare,npm,yarn,cmake,mysql,redis,windows,linux,apple,vscode,idea,obsidian,photoshop&theme=light&perline=12)](https://skillicons.dev) -->
 <!-- ![My Tools](./icons/tools.svg) -->
