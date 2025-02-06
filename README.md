@@ -46,13 +46,15 @@
 
 🌀 ...
 
-# 🔮 Tools
-![My Tools](./icons/tools.svg)
+# 🔮 Skills & Tools
+
+![My Skills](skillicons.svg)
+
+<!-- [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,golang,java,html,css,javascript,typescript,markdown,sass,tailwindcss,vuejs,vite,nuxtjs,pinia,nodejs,spring,maven,git,github,docker,nginx,postman,cloudflare,npm,yarn,cmake,mysql,redis,windows,linux,apple,vscode,idea,obsidian,photoshop&theme=light&perline=12)](https://skillicons.dev) -->
+<!-- ![My Tools](./icons/tools.svg) -->
 
 <!-- ![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,java,go,py,vue,vite,pinia,ts,tailwind,mysql,docker,git,github,md,postman,pytorch,vscode,sass,vim,cloudflare,linux,debian,ubuntu,discord,gmail,githubactions,npm,obsidian,powershell,windows,yarn,apple,bash) -->
 
-<!-- 
-<img src="./icons/github-mark.svg" width="50"  alt="Github"> <img src="./icons/vscode.svg" width="50" alt="VScode"> <img src="./icons/obsidian-logo-gradient.svg" width="50" alt="Obsidian"> <img src="./icons/Windows_logo_-_2021.svg.png" width="50" alt="Windows 11"> <img src="./icons/postman-icon.png" width="50" alt="POSTMAN"> <img src="./icons/Git-Icon-1788C.png" width="50" alt="Git"> ... -->
 
 # 🍟 Stats
 
