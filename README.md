@@ -40,9 +40,9 @@
 
 ✉️ Email: aGlAbGluc25vdy5jbg==
 
-🙃 L1nSn0w: [L1nSn0w's Site](https://linsnow.cn)
+🙃 L1nSn0w: [L1nSn0w の 小窝](https://linsnow.cn)
 
-😋 Soopy: [Soopy](https://soopy.cn)
+😋 Soopy: [Soopy~](https://soopy.cn)
 
 🌀 ...
 
