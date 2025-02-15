@@ -68,9 +68,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-451%20hrs%205%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue)
 
 **🐱 My GitHub Data** 
 
@@ -149,7 +147,7 @@ C++                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lin-snow/lin-snow/main/assets/bar_graph.png)
 
 
- Last Updated on 15/02/2025 15:15:09 UTC
+ Last Updated on 15/02/2025 18:39:29 UTC
 <!--END_SECTION:waka-->
 
 
