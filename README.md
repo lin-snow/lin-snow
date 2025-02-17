@@ -61,14 +61,16 @@
 
 # 🍟 Stats
 
-<div style="text-align: center;">
+![](https://github-profile-trophy.vercel.app?username=lin-snow&theme=nord&no-frame=true&column=9&title=Stars,Followers,Repositories,MultiLanguage,Commits,Issues)
+
+<!-- <div style="text-align: center;">
     <a href="https://github.com/lin-snow">
-        <img align="center" src="https://githubstat.linsnow.cn/api/top-langs/?username=lin-snow&layout=donut&langs_count=4" />
+        <img align="center" src="https://githubstat.linsnow.cn/api/top-langs/?username=lin-snow&layout=donut&langs_count=8" />
     </a>
     <a href="https://github.com/lin-snow">
-        <img align="center" src="https://githubstat.linsnow.cn/api?username=lin-snow&count_private=true&show_icons=true&theme=default" />
+        <img align="center" src="https://githubstat.linsnow.cn/api?username=lin-snow&count_private=true&show_icons=true&theme=default&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
     </a>
-</div>
+</div> -->
 
 ---
 
