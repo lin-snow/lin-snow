@@ -61,7 +61,7 @@
 
 # 🍟 Stats
 
-![](https://github-profile-trophy.vercel.app?username=lin-snow&theme=nord&no-frame=true&column=9&title=Stars,Followers,Repositories,MultiLanguage,Commits,Issues)
+![Stats](https://github-profile-trophy.vercel.app/?username=lin-snow&theme=nord&no-frame=true&column=9)
 
 <!-- <div style="text-align: center;">
     <a href="https://github.com/lin-snow">
