@@ -63,10 +63,10 @@
 
 <div style="text-align: center;">
     <a href="https://github.com/lin-snow">
-        <img align="center" src="https://githubstat.linsnow.cn/api/top-langs/?username=lin-snow&layout=compact" />
+        <img align="center" src="https://githubstat.linsnow.cn/api/top-langs/?username=lin-snow&layout=donut" />
     </a>
     <a href="https://github.com/lin-snow">
-        <img align="center" src="https://githubstat.linsnow.cn/api?username=lin-snow&count_private=true&show_icons=true&theme=ambient_gradient" />
+        <img align="center" src="https://githubstat.linsnow.cn/api?username=lin-snow&count_private=true&show_icons=true&theme=default" />
     </a>
 </div>
 
