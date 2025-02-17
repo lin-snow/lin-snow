@@ -40,21 +40,15 @@
 
 ✉️ Email: aGlAbGluc25vdy5jbg==
 
-🙃 L1nSn0w: [L1nSn0w の 小窝](https://linsnow.cn)
+🙃 [L1nSn0w の 小窝](https://linsnow.cn)
 
-😋 Soopy: [Soopy~](https://soopy.cn)
+😋 [Soopy~](https://soopy.cn)
 
 🌀 ...
 
 # 🔮 Skills & Tools
 
 ![My Skills](/assets/skillicons.svg)
-
-<!-- [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,golang,java,html,css,javascript,typescript,markdown,sass,tailwindcss,vuejs,vite,nuxtjs,pinia,nodejs,spring,maven,git,github,docker,nginx,postman,cloudflare,npm,yarn,cmake,mysql,redis,windows,linux,apple,vscode,idea,obsidian,photoshop&theme=light&perline=12)](https://skillicons.dev) -->
-<!-- ![My Tools](./icons/tools.svg) -->
-
-<!-- ![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,java,go,py,vue,vite,pinia,ts,tailwind,mysql,docker,git,github,md,postman,pytorch,vscode,sass,vim,cloudflare,linux,debian,ubuntu,discord,gmail,githubactions,npm,obsidian,powershell,windows,yarn,apple,bash) -->
-
 
 # 🍟 Stats
 
@@ -66,6 +60,8 @@
         <img align="center" src="https://githubstat.linsnow.cn/api?username=lin-snow&count_private=true&show_icons=true&theme=ambient_gradient" />
     </a>
 </div>
+
+![My Contribution](https://activitygraph.linsnow.cn/graph?username=lin-snow&theme=github-compact&days=30)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-450%20hrs%2012%20mins-blue)
