@@ -9,6 +9,9 @@
                                           
 
 ```
+
+---
+
 ##
 ![](https://raw.githubusercontent.com/lin-snow/lin-snow/output/github-contribution-grid-snake-dark.svg)
 
@@ -36,6 +39,8 @@
 
 🤪 ...
 
+---
+
 # 📫 Contact With Me:
 
 ✉️ Email: aGlAbGluc25vdy5jbg==
@@ -46,9 +51,13 @@
 
 🌀 ...
 
+---
+
 # 🔮 Skills & Tools
 
 ![My Skills](/assets/skillicons.svg)
+
+---
 
 # 🍟 Stats
 
@@ -61,7 +70,15 @@
     </a>
 </div>
 
+---
+
+# 🏆 Contribution
+
 ![My Contribution](https://activitygraph.linsnow.cn/graph?username=lin-snow&theme=github-compact&days=30)
+
+---
+
+# ⏲️ Waka Time
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-451%20hrs%205%20mins-blue)
