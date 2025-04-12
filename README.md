@@ -91,8 +91,6 @@
 
 > 📦 819.4 kB Used in GitHub's Storage 
  > 
-> 🏆 395 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 45 Public Repositories 
@@ -161,7 +159,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lin-snow/lin-snow/main/assets/bar_graph.png)
 
 
- Last Updated on 11/04/2025 18:46:32 UTC
+ Last Updated on 12/04/2025 18:43:29 UTC
 <!--END_SECTION:waka-->
 
 
