@@ -45,7 +45,7 @@
 
 ✉️ Email: aGlAbGluc25vdy5jbg==
 
-🙃 [L1nSn0w の 小窝](https://linsnow.cn)
+🙃 [L1nSn0w の 小窝](https://vaaat.com)
 
 😋 [Soopy~](https://soopy.cn)
 
