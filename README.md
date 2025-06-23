@@ -46,6 +46,8 @@
 
 ![My Skills](/assets/skillicons.svg)  
 
+<!-- https://skillicons.dev/icons?i=c,cpp,python,golang,java,rust,html,css,javascript,typescript,markdown,sass,tailwindcss,vuejs,vite,nuxtjs,pinia,react,nextjs,nodejs,spring,maven,elasticsearch,rabbitmq,git,github,githubactions,docker,nginx,postman,cloudflare,npm,pnpm,cmake,mysql,sqlite,redis,windows,linux,apple,vscode,idea,obsidian,photoshop,stackoverflow&theme=light&perline=12 -->
+
 ---
 
 <!-- # 🍟 Stats
