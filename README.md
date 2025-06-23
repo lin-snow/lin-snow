@@ -13,7 +13,7 @@
 ---
 
 ##
-![](https://raw.githubusercontent.com/lin-snow/lin-snow/output/github-contribution-grid-snake-dark.svg)
+<!-- ![](https://raw.githubusercontent.com/lin-snow/lin-snow/output/github-contribution-grid-snake-dark.svg) -->
 
 # 👋 Hi! I'm L1nSn0w.
 
@@ -45,7 +45,7 @@
 
 ✉️ Email: aGlAbGluc25vdy5jbg==
 
-🙃 [L1nSn0w の 小窝](https://vaaat.com)
+🙃 [L1nSn0w](https://vaaat.com)
 
 😋 [Soopy~](https://soopy.cn)
 
