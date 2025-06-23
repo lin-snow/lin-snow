@@ -19,43 +19,31 @@
 
 # 👨‍💻 More About Me
 
-🤠 He / Him . 21-year-old.
-
-🎈 Based in `China`
-  
-🤔 Languages: Native in `Chinese`, conversational in `English`
-
-🌏 Marjor in `Software Engineer` at the `GDUT`(Guangdong University of Technology)
-
-🛟 Enjoys surfing the `web` and discovering interesting and innovative software.
-
-💻 `Full-stack` development enthusiast
-
-🎮 Enjoys playing `The Finals`
-
-🗣️ Enjoys discussing `interests` and `tech` with others
-
+🤠 He / Him . 21-year-old.  
+🎈 Based in `China`  
+🤔 Languages: Native in `Chinese`, conversational in `English`  
+🌏 Marjor in `Software Engineer` at the `GDUT`(Guangdong University of Technology)  
+🛟 Enjoys surfing the `web` and discovering interesting and innovative software.  
+💻 `Full-stack` development enthusiast  
+🎮 Enjoys playing `The Finals`  
+🗣️ Enjoys discussing `interests` and `tech` with others  
 👾 Love Products and Design From `Apple. Inc` && `Google. Inc`  
-
-🤪 ...
 
 ---
 
 # 📫 Contact With Me:
 
-✉️ Email: aGlAbGluc25vdy5jbg==
-
-🙃 [L1nSn0w](https://vaaat.com)
-
-😋 [Soopy~](https://soopy.cn)
-
-🌀 ...
+✉️ Email: aGlAbGluc25vdy5jbg==  
+🙃 [L1nSn0w](https://vaaat.com)  
+🤔 [L1nSn0w's Log](https://log.vaaat.com)  
+🤪 [L1nSn0w's Memo](https://memo.vaaat.com)  
+😋 [Soopy~](https://soopy.cn)  
 
 ---
 
 # 🔮 Skills & Tools
 
-![My Skills](/assets/skillicons.svg)
+![My Skills](/assets/skillicons.svg)  
 
 ---
 
