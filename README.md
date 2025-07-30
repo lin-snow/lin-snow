@@ -64,7 +64,7 @@
 
 #### 🦖 Middleware:
 
-![](https://img.shields.io/badge/Rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) ![](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![](https://img.shields.io/badge/Rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
 #### ☸️ DevOps / Platform:
 ![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white) ![](https://img.shields.io/badge/Github%20Action-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![](https://img.shields.io/badge/1panel-0854C1?style=flat-square&logo=1panel&logoColor=white)
