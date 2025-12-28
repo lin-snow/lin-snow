@@ -36,13 +36,12 @@
 | Site | URL |
 |------|-----|
 | L1nSn0w | https://vaaat.com |
-| L1nSn0w's Log | https://log.vaaat.com |
+| L1nSn0w's BLog | https://blog.vaaat.com |
 | L1nSn0w's Memo | https://memo.vaaat.com |
 | L1nSn0w's Gallery | https://gallery.vaaat.com |
-| Soopy~ | https://soopy.cn |
 
----
 
+<!-- 
 # 🔮 Tech Stack
 
 
@@ -73,7 +72,7 @@
 ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white) ![](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![](https://img.shields.io/badge/Apifox-F44A53?style=flat-square&logo=apifox&logoColor=white) ![](https://img.shields.io/badge/VSCode-0078D6?style=flat-square&logo=vscode&logoColor=white) ![](https://img.shields.io/badge/Jetbrain-IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white) ![](https://img.shields.io/badge/Jetbrain-GoLand-000000?style=flat-square&logo=goland&logoColor=white)
 
 #### 🖥️ Operating Systems:
-![](https://img.shields.io/badge/IOS-000000?style=flat-square&logo=apple&logoColor=white) ![](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/IOS-000000?style=flat-square&logo=apple&logoColor=white) ![](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) -->
 
 
 <!-- # 🔮 Skills & Tools -->
@@ -82,7 +81,6 @@
 
 <!-- https://skillicons.dev/icons?i=c,cpp,python,golang,java,rust,html,css,javascript,typescript,markdown,sass,tailwindcss,vuejs,vite,nuxtjs,pinia,react,nextjs,nodejs,spring,maven,elasticsearch,rabbitmq,git,github,githubactions,docker,nginx,postman,cloudflare,npm,pnpm,cmake,mysql,sqlite,redis,windows,linux,apple,vscode,idea,obsidian,photoshop,stackoverflow&theme=light&perline=12 -->
 
----
 
 <!-- # 🍟 Stats
 
