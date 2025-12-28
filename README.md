@@ -10,12 +10,12 @@
 
 ```
 
-##
+<!-- ## -->
 <!-- ![](https://raw.githubusercontent.com/lin-snow/lin-snow/output/github-contribution-grid-snake-dark.svg) -->
 
 # 👋 Hi! I'm L1nSn0w.
 
-# 👨‍💻 More About Me
+<!-- # 👨‍💻 More About Me -->
 
 🤠 He / Him . 21-year-old.  
 🎈 Based in `China`  
