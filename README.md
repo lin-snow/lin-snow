@@ -25,7 +25,7 @@
 💻 `Full-stack` development enthusiast  
 🎮 Enjoys playing `The Finals`  
 🗣️ Enjoys discussing `interests` and `tech` with others  
-👾 Love Products and Design From `Apple` && `Google.`  
+👾 Love Products and Design From `Apple` && `Google`  
 
 ---
 
