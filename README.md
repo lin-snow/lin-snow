@@ -36,7 +36,6 @@
 | L1nSn0w | https://vaaat.com |
 | L1nSn0w's BLog | https://blog.vaaat.com |
 | L1nSn0w's Memo | https://memo.vaaat.com |
-| L1nSn0w's Gallery | https://gallery.vaaat.com |
 
 
 <!-- 
