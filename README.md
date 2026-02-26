@@ -17,7 +17,7 @@
 
 <!-- # 👨‍💻 More About Me -->
 
-🤠 He / Him . 21-year-old.  
+🤠 He / Him . 22-year-old.  
 🎈 Based in `China`  
 🤔 Languages: Native in `Chinese`, conversational in `English`  
 🌏 Major in `Software Engineer` at the `GDUT`(Guangdong University of Technology)  
