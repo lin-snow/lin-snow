@@ -35,7 +35,8 @@
 |------|-----|
 | L1nSn0w | https://sn0w.fyi |
 | L1nSn0w's BLog | https://blog.sn0w.fyi |
-| L1nSn0w's Memo | https://memo.vaaat.com |
+| L1nSn0w's Memo | https://memo.sn0w.fyi |
+| L1nSn0w's Sponsor | https://sponsor.sn0w.fyi |
 
 
 <!-- 
