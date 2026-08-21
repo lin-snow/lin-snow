@@ -7,7 +7,7 @@
   <img src="assets/wordmark-light.svg" alt="L1nSn0w" width="220" />
 </picture>
 
-*Full-stack Developer · Cloud Native & AI Agent · 无限进步*
+*Full-stack Developer · Cloud Native & AI Agent*
 
 <p>
   <a href="https://sn0w.fyi"><img alt="Home" src="https://img.shields.io/badge/Home-3A4149?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMTYgMTYiPjxwYXRoIGQ9Ik02LjkwNi42NjRhMS43NDkgMS43NDkgMCAwIDEgMi4xODcgMGw1LjI1IDQuMmMuNDE1LjMzMi42NTcuODM1LjY1NyAxLjM2N3Y3LjAxOUExLjc1IDEuNzUgMCAwIDEgMTMuMjUgMTVoLTMuNWEuNzUuNzUgMCAwIDEtLjc1LS43NVY5SDd2NS4yNWEuNzUuNzUgMCAwIDEtLjc1Ljc1aC0zLjVBMS43NSAxLjc1IDAgMCAxIDEgMTMuMjVWNi4yM2MwLS41MzEuMjQyLTEuMDM0LjY1Ny0xLjM2Nmw1LjI1LTQuMlptMS4yNSAxLjE3MWEuMjUuMjUgMCAwIDAtLjMxMiAwbC01LjI1IDQuMmEuMjUuMjUgMCAwIDAtLjA5NC4xOTZ2Ny4wMTljMCAuMTM4LjExMi4yNS4yNS4yNUg1LjVWOC4yNWEuNzUuNzUgMCAwIDEgLjc1LS43NWgzLjVhLjc1Ljc1IDAgMCAxIC43NS43NXY1LjI1aDIuNzVhLjI1LjI1IDAgMCAwIC4yNS0uMjVWNi4yM2EuMjUuMjUgMCAwIDAtLjA5NC0uMTk1WiIvPjwvc3ZnPg==" /></a>
