@@ -21,12 +21,15 @@
   <img alt="Stars" src="https://img.shields.io/github/stars/lin-snow?style=flat-square&label=Stars&labelColor=3A4149&color=6E7781&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMTYgMTYiPjxwYXRoIGQ9Ik04IC4yNWEuNzUuNzUgMCAwIDEgLjY3My40MThsMS44ODIgMy44MTUgNC4yMS42MTJhLjc1Ljc1IDAgMCAxIC40MTYgMS4yNzlsLTMuMDQ2IDIuOTcuNzE5IDQuMTkyYS43NTEuNzUxIDAgMCAxLTEuMDg4Ljc5MUw4IDEyLjM0N2wtMy43NjYgMS45OGEuNzUuNzUgMCAwIDEtMS4wODgtLjc5bC43Mi00LjE5NEwuODE4IDYuMzc0YS43NS43NSAwIDAgMSAuNDE2LTEuMjhsNC4yMS0uNjExTDcuMzI3LjY2OEEuNzUuNzUgMCAwIDEgOCAuMjVaIi8%2BPC9zdmc%2B" />
 </p>
 
-He / Him · 22 · Software Engineering at **GDUT**, based in **China**. A **full-stack** developer now focused on **Cloud Native** and **AI Agent** development — native Chinese, conversational English, forever hunting down interesting software, talking tech with anyone curious, playing *The Finals*, and admiring what **Apple** and **Google** ship.
+He / Him · 22 · Software Engineering @ **GDUT**, China.
+
+**Full-stack developer** focused on **Cloud Native**, **AI Agents**, and developer infrastructure. Building software, exploring systems, and occasionally playing *The Finals*. Native Chinese · Conversational English.
+
 
 <a href="https://ghfind.com/u/lin-snow?ref=badge">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/lin-snow?variant=radar&theme=dark&lang=zh" />
-    <img src="https://ghfind.com/api/card/mini/lin-snow?variant=radar&theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
+    <img src="https://ghfind.com/api/card/mini/lin-snow?variant=radar&theme=light&lang=zh" alt="GitHub Roast 评分卡" width="580" />
   </picture>
 </a>
 
