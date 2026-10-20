@@ -28,8 +28,8 @@ He / Him · 22 · Software Engineering @ **GDUT**, China.
 
 <a href="https://ghfind.com/u/lin-snow?ref=badge">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/lin-snow?variant=radar&theme=dark&lang=zh" />
-    <img src="https://ghfind.com/api/card/mini/lin-snow?variant=radar&theme=light&lang=zh" alt="GitHub Roast 评分卡" width="590" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/lin-snow?variant=radar&theme=dark" />
+    <img src="https://ghfind.com/api/card/mini/lin-snow?variant=radar&theme=light" alt="GitHub Roast 评分卡" width="600" />
   </picture>
 </a>
 
